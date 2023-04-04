@@ -1,0 +1,8 @@
+{
+  "name": "PredictWise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bc7b1802"
+}
